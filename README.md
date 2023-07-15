@@ -352,3 +352,13 @@
 4 4 4 4 4 4 4
 ```
 [code](/Pattern32.cpp)
+
+# 33.
+```
+E 
+D E
+C D E
+B C D E
+A B C D E
+```
+[code](/Pattern33.cpp)
