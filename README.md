@@ -362,3 +362,13 @@ B C D E
 A B C D E
 ```
 [code](/Pattern33.cpp)
+
+# 34.
+```
+a 
+B c
+D e F
+g H i J
+k L m N o
+```
+[code](/Pattern34.cpp)
