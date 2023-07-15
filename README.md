@@ -146,3 +146,9 @@
 *********
 ```
 [code](/Pattern14.cpp)
+
+$ 15.
+```
+
+```
+[code](/Pattern15.cpp)
