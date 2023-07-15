@@ -36,7 +36,7 @@
 * *
 *
 ```
-[code](/Patterns4.cpp)
+[code](/Pattern4.cpp)
 
 # 5.
 ```
