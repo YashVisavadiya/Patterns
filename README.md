@@ -372,3 +372,13 @@ g H i J
 k L m N o
 ```
 [code](/Pattern34.cpp)
+
+# 35.
+```
+E D C B A 
+D C B A
+C B A
+B A
+A
+```
+[code](/Pattern35.cpp)
